@@ -1,0 +1,6 @@
+framework module ios_demo {
+  umbrella header "ios_demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
