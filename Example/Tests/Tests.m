@@ -1,6 +1,6 @@
 //
-//  ios_demoTests.m
-//  ios_demoTests
+//  iOSDemoTests.m
+//  iOSDemoTests
 //
 //  Created by CongL.Hu on 09/04/2022.
 //  Copyright (c) 2022 CongL.Hu. All rights reserved.

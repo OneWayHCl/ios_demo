@@ -1,16 +1,16 @@
 PODS:
-  - ios_demo (0.1.0)
+  - iOSDemo (0.1.0)
 
 DEPENDENCIES:
-  - ios_demo (from `../`)
+  - iOSDemo (from `../`)
 
 EXTERNAL SOURCES:
-  ios_demo:
+  iOSDemo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ios_demo: 71898e8acb820ff588edd94bea42ed6a4315a8bb
+  iOSDemo: 9baedbaade73d6e349d74365843b32fa72651cc9
 
-PODFILE CHECKSUM: d178bb55478e36d925d050d6ae3c6fdf0c557450
+PODFILE CHECKSUM: 11fa2a3f5537503ca7d622caa2c8fe58b9ab01a3
 
 COCOAPODS: 1.11.3
